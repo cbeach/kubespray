@@ -1,0 +1,3 @@
+[submodule "include/ansible/kubespray"]
+       path = include/ansible/kubespray
+       url = git@github.com:cbeach/kubespray.git
